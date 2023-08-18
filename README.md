@@ -10,7 +10,7 @@ DataCamp projects provide a hands-on approach to applying the skills gained from
 ## Table of Contents
 - [Why DataCamp Projects?](#why-datacamp-projects)
 - [Project Highlights](#project-highlights)
-  - [Project - Introduction to DataCamp Projects](#Project - Introduction to DataCamp Projects)
+  - [Project - Introduction to DataCamp Projects](#Project-Introduction to DataCamp Projects)
   - [Project - A New Era of Data Analysis in Baseball](#Project - A New Era of Data Analysis in Baseball)
   - [Project - The GitHub History of the Scala Language](#Project - The GitHub History of the Scala Language)
   - [Project - The Android App Market on Google Play](#Project - The Android App Market on Google Play)
