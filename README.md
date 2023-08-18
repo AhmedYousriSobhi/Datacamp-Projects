@@ -10,17 +10,19 @@ DataCamp projects provide a hands-on approach to applying the skills gained from
 ## Table of Contents
 - [Why DataCamp Projects?](#why-datacamp-projects)
 - [Project Highlights](#project-highlights)
-  - [Project - Introduction to DataCamp Projects](#Project_-_Introduction_to_DataCamp_Projects)
-  - [The GitHub History of the Scala Language](#the-github-history-of-the-scala-language)
-  - [The Android App Market on Google Play](#the-android-app-market-on-google-play)
-  - [Investigating Netflix Movies and Guest Stars in The Office](#investigating-netflix-movies-and-guest-stars-in-the-office)
-  - [A Visual History of Nobel Prize Winners](#a-visual-history-of-nobel-prize-winners)
+  - [Project - Introduction to DataCamp Projects](#Project - Introduction to DataCamp Projects)
+  - [Project - A New Era of Data Analysis in Baseball](#Project - A New Era of Data Analysis in Baseball)
+  - [Project - The GitHub History of the Scala Language](#Project - The GitHub History of the Scala Language)
+  - [Project - The Android App Market on Google Play](#Project - The Android App Market on Google Play)
+  - [Project - Investigating Netflix Movies and Guest Stars in The Office](#Project - Investigating Netflix Movies and Guest Stars in The Office)
+  - [Project - A Visual History of Nobel Prize Winners](#Project - A Visual History of Nobel Prize Winners)
 - [Explore and Learn](#explore-and-learn)
 
 <a name='Project Highlights'></a>
 ## Project Highlights
 Here's a glimpse of some exciting projects in this repository:
 
+<a name='Project - Introduction to DataCamp Projects'></a>
 ### Project - Introduction to DataCamp Projects
 
 __Project Description__
@@ -31,6 +33,7 @@ In doing so, you will learn how to work with Jupyter notebooks: an open-source w
 
 Current Solution Version : SQL
 
+<a name='Project - A New Era of Data Analysis in Baseball'></a>
 ### Project - A New Era of Data Analysis in Baseball
 
 __Project Description__
@@ -41,8 +44,8 @@ The dataset used in this project is from [Baseball Savant](https://baseballsavan
 
 Current Solution Version : Python
 
+<a name='Project - The GitHub History of the Scala Language'></a>
 ### Project - The GitHub History of the Scala Language
-
 __Project Description__
 
 Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, you'll be challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. You will find out who has had the most influence on its development and who are the experts.
@@ -51,6 +54,7 @@ The dataset includes the project history of [Scala](https://www.scala-lang.org/)
 
 Current Solution Version : Python
 
+<a name='Project - The Android App Market on Google Play'></a>
 ### Project - The Android App Market on Google Play
 
 __Project Description__
@@ -62,6 +66,7 @@ user_reviews.csv: contains 100 reviews for each app, [most helpful first](https:
 
 Current Solution Version : Python
 
+<a name='Project - Investigating Netflix Movies and Guest Stars in The Office'></a>
 ### Project - Investigating Netflix Movies and Guest Stars in The Office
 
 __Project Description__
@@ -72,6 +77,7 @@ You’ll also gain experience in an essential data science skill — exploratory
 
 Current Solution Version : Python
 
+<a name='Project - A Visual History of Nobel Prize Winners'></a>
 ### Project - A Visual History of Nobel Prize Winners
 
 __Project Description__
