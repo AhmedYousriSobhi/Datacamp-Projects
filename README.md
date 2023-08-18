@@ -1,7 +1,27 @@
-# Datacamp-Projects
-My Solution for Datacamp Projects.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Project - Introduction to DataCamp Projects
+<a name='Datacamp-Projects-Showcase'></a>
+# Datacamp-Projects-Showcase
+Welcome to the DataCamp Projects Showcase! This repository contains my solutions to various DataCamp projects, each focusing on real-world data analysis using different tools and programming languages.
+
+## Why DataCamp Projects?
+DataCamp projects provide a hands-on approach to applying the skills gained from DataCamp courses. With each project, you'll dive into end-to-end analysis of practical tasks using real-world tools and workflows. Whether it's Python, SQL, or other technologies, you'll gain experience in solving data-related challenges.
+
+## Table of Contents
+- [Why DataCamp Projects?](#why-datacamp-projects)
+- [Project Highlights](#project-highlights)
+  - [Project - Introduction to DataCamp Projects](#Project_-_Introduction_to_DataCamp_Projects)
+  - [The GitHub History of the Scala Language](#the-github-history-of-the-scala-language)
+  - [The Android App Market on Google Play](#the-android-app-market-on-google-play)
+  - [Investigating Netflix Movies and Guest Stars in The Office](#investigating-netflix-movies-and-guest-stars-in-the-office)
+  - [A Visual History of Nobel Prize Winners](#a-visual-history-of-nobel-prize-winners)
+- [Explore and Learn](#explore-and-learn)
+
+<a name='Project Highlights'></a>
+## Project Highlights
+Here's a glimpse of some exciting projects in this repository:
+
+### Project - Introduction to DataCamp Projects
 
 __Project Description__
 
@@ -11,7 +31,7 @@ In doing so, you will learn how to work with Jupyter notebooks: an open-source w
 
 Current Solution Version : SQL
 
-## Project - A New Era of Data Analysis in Baseball
+### Project - A New Era of Data Analysis in Baseball
 
 __Project Description__
 
@@ -21,7 +41,7 @@ The dataset used in this project is from [Baseball Savant](https://baseballsavan
 
 Current Solution Version : Python
 
-## Project - The GitHub History of the Scala Language
+### Project - The GitHub History of the Scala Language
 
 __Project Description__
 
@@ -31,7 +51,7 @@ The dataset includes the project history of [Scala](https://www.scala-lang.org/)
 
 Current Solution Version : Python
 
-## Project - The Android App Market on Google Play
+### Project - The Android App Market on Google Play
 
 __Project Description__
 
@@ -42,7 +62,7 @@ user_reviews.csv: contains 100 reviews for each app, [most helpful first](https:
 
 Current Solution Version : Python
 
-## Project - Investigating Netflix Movies and Guest Stars in The Office
+### Project - Investigating Netflix Movies and Guest Stars in The Office
 
 __Project Description__
 
@@ -52,7 +72,7 @@ You’ll also gain experience in an essential data science skill — exploratory
 
 Current Solution Version : Python
 
-## Project - A Visual History of Nobel Prize Winners
+### Project - A Visual History of Nobel Prize Winners
 
 __Project Description__
 
@@ -61,5 +81,11 @@ The Nobel Prize is perhaps the world's most well known scientific award. Every y
 Well, let's find out! What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? It's up to you to figure this out.
 
 The [dataset](https://www.kaggle.com/nobelfoundation/nobel-laureates) used in this project is from The Nobel Foundation on Kaggle.
+
+## Explore and Learn
+
+Feel free to explore the projects in this repository to witness how data analysis skills are applied in real-world scenarios. Each project demonstrates the power of data-driven insights and provides an opportunity to learn, experiment, and contribute.
+
+Enjoy your journey through the world of data analysis and exploration!
 
 Current Solution Version : Python
